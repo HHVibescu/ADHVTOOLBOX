@@ -1,0 +1,16 @@
+{
+    
+    "licence_key" : "XXXX-XXXX-XXXX-XXXX",
+    "language": "en",
+    "gmap_key": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+    "mapbox_key" : "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "bing_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "sms_activate_key": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+    "5_sim_key": "xxxxxxxxxxxxxxxxx",
+    "sms_gen_key": "xxxxxxxxxxx",
+    "catchall": "@xxxxxx.xxx",
+    "2captcha_api_key": "xxxxxxxxxxxxx",
+    "capsolver_api_key": "xxxxxxxxxxxxxxxxxxxxxxx",
+    "capmonster_api_key" : "xxxxxxxxxxxxxxxxxxxxxxxx"
+
+}
