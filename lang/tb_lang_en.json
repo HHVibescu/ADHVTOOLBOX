@@ -91,19 +91,16 @@
     "License found" : "License found",
     "Hi" : "Hi",
     "License not found" : "License not found",
-    "Press any key to exit..." : "Press any key to exit..."
-
-
-
-
-
-
-
-
-
-
-
-
+    "Press any key to exit..." : "Press any key to exit...",
+    "Enter coordinates :" : "Enter coordinates :",
+    "Enter radius (in meters) :" : "Enter radius (in meters) :",
+    "Enter maximum number of results :" : "Enter maximum number of results :",
+    "Enter to be converted file name (must be in exe directory): " : "Enter to be converted file name (must be in exe directory): ",
+    "Enter conversion rules (double comma separated, e.g., 'username, user,, password, pass'): " : "Enter conversion rules (double comma separated, e.g., 'username, user,, password, pass'): ",
+    "Enter output file name: " : "Enter output file name: ",
+    "An error occurred while encoding the matching message. Skipping..." : "An error occurred while encoding the matching message. Skipping...",
+    "Enter search text: " : "Enter search text: ",
+    "Press enter to continue" : "Press enter to continue"
 
 
 }
